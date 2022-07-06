@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="about_button">About</string>
+    <string name="about_text">I\'m a demonstration application meant to showcase some essential techniques used for building Android applications.</string>
+    <string name="about_title">About myself</string>
+    <string name="done_button">Done</string>
+    <string name="question">Do you like me?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question_button">Question?</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="answer_is">Your answer was %1$s.</string>
+    <string name="show_web_page">Web page</string>
+</resources>
